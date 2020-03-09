@@ -1,11 +1,11 @@
 Package: filecreateR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Automates file creation
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Wesley Gardiner
+Maintainer: Wesley Gardiner <wesley.gardiner4546@gmail.com>
+Description: The purpose of this package is to make file creation easier
+    at the beginning of a new project with the help of the "here" package.
 License: MIT
 Encoding: UTF-8
 LazyData: true
